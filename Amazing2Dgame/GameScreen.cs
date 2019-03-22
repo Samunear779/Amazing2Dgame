@@ -1,4 +1,8 @@
-﻿using System;
+﻿//Sam Near 
+//Snake vs Block 
+//ICS4U
+//March 22, 2019 
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Drawing;
